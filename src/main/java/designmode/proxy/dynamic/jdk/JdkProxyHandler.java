@@ -1,6 +1,5 @@
 package designmode.proxy.dynamic.jdk;
 
-import designmode.proxy.JavaProgrammer;
 import designmode.proxy.Programmer;
 
 import java.lang.reflect.InvocationHandler;
