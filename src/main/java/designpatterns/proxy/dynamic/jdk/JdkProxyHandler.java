@@ -1,6 +1,6 @@
-package designmode.proxy.dynamic.jdk;
+package designpatterns.proxy.dynamic.jdk;
 
-import designmode.proxy.Programmer;
+import designpatterns.proxy.Programmer;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

@@ -1,11 +1,11 @@
 package proxy;
 
-import designmode.proxy.JavaProgrammer;
-import designmode.proxy.Programmer;
-import designmode.proxy.dynamic.cglib.CglibProgrammer;
-import designmode.proxy.dynamic.cglib.CglibProxyHandler;
-import designmode.proxy.dynamic.jdk.JdkProxyHandler;
-import designmode.proxy.statical.StaticProgrammerProxy;
+import designpatterns.proxy.JavaProgrammer;
+import designpatterns.proxy.Programmer;
+import designpatterns.proxy.dynamic.cglib.CglibProgrammer;
+import designpatterns.proxy.dynamic.cglib.CglibProxyHandler;
+import designpatterns.proxy.dynamic.jdk.JdkProxyHandler;
+import designpatterns.proxy.statical.StaticProgrammerProxy;
 import net.sf.cglib.proxy.Enhancer;
 import org.junit.Test;
 
